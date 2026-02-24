@@ -5,8 +5,6 @@
 
 nmap -sV scanme.nmap.org
 
-(nmap.png)
-
 **Open Services:**
 - Port 22/ssh: OpenSSH 6.6.1p1 (brute force target)  
 - Port 80/http: Apache 2.4.7 (Ubuntu)
@@ -15,9 +13,7 @@ nmap -sV scanme.nmap.org
 ## SOC Server Triage
 
 *sudo tail -20 /var/log/auth.log | grep “Failed”
-*sudo tail -20 /var/log/auth.log | grep sshd
-
-(nmap.png)
+*sudo tail -20 /var/log/auth.log | grep ssh
 
 **Production Finding:**
 

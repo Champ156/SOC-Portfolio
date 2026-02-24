@@ -5,7 +5,7 @@
 
 nmap -sV scanme.nmap.org
 
-[Nmap Live Scan](Screenshot-2026-02-24-at-9.52.18-AM.jpeg)
+(nmap.png)
 
 **Open Services:**
 - Port 22/ssh: OpenSSH 6.6.1p1 (brute force target)  
@@ -17,7 +17,7 @@ nmap -sV scanme.nmap.org
 *sudo tail -20 /var/log/auth.log | grep “Failed”
 *sudo tail -20 /var/log/auth.log | grep sshd
 
-[Linux Log Troubleshooting](Screenshot-2026-02-24-at-9.52.18-AM.jpeg)
+(nmap.png)
 
 **Production Finding:**
 

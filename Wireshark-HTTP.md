@@ -12,5 +12,5 @@
 
 **Skills Gained**: Live capture, HTTP filtering, traffic analysis
 
-![Wireshark HTTP Filter](wireshark-http-filter.jpg)
+![Wireshark HTTP Filter]
 <img width="1920" height="1080" alt="Screenshot 2026-02-16 at 2 43 36 PM" src="https://github.com/user-attachments/assets/105762cc-6739-4cd1-bbef-967b88ab8d46" />
